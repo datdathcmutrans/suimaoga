@@ -5,7 +5,6 @@
 
 <p>Theo một số bác sĩ tại phòng khám Đại Đông, để biết chính xác mức độ căn bệnh hay chắc chắn rằng mình có mắc bệnh hay không thì bạn buộc phải đi xét nghiệm. Chi phí xét nghiệm căn bệnh giang mai chẳng thể dẫn ra con số nào chi tiết vì nó còn tùy vào nhiều yếu tố. chi tiết là:</p>
 
-<p style="text-align: center;"><img alt="" src="http://phongkhamdaidong.vn/upload/hinhanh/chi-phi-xet-nghiem-chua-tri-benh-giang-mai-het-bao-nhieu-tien(1).jpg" style="height:350px; width:500px" /></p>
 
 <p>&nbsp;</p>
 
